@@ -21,7 +21,7 @@ How to Use yt.be/activate to Link Your Device (Step-by-Step)
 
 Quick Tip: Make sure your TV and mobile/computer are connected to the internet during the process.
 
-Where to Find Your YouTube Activation Code
+Where to Find Your YouTube Activation Code?
 ------------------------------------------
 
 You can find the activation code by doing the following:
