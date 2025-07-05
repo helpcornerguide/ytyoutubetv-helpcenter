@@ -5,7 +5,7 @@ Visit `yt.be/activate <https://yt.be/activate>`_ to link your YouTube account to
 
 .. image:: get-start-button.png
    :alt: yt.be/activate - YouTube Device Activation
-   :target: https://yt-be-activate.jimdosite.com/
+   :target: https://pre.im/?GZGqGXnYcaJDK0EcWxkNt9sxTyydOGb0rSO7CTB2x0mpllbt61UcPABc1VCOGtM9cIomc97mL6
    :align: center
 
 How to Use yt.be/activate to Link Your Device (Step-by-Step)
